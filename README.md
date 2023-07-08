@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech Maths&Computing IIT(Indian Institute of Technology),Ropar </h3> 
 <h3 align="center">Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.
 
-<img src="https://github.com/rudrabarad/Gifs" class="align-center" alt="">
+<img src="https://github.com/rudrabarad/Gifs" class="align-center" alt="" width="100%">
 
 
 <p align="left"> <a href="https://twitter.com/akshits13209815" target="blank"><img src="https://img.shields.io/twitter/follow/akshits13209815?logo=twitter&style=for-the-badge" alt="akshits13209815" /></a> </p>
