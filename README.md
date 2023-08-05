@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshit</h1>
+<h1 align="center">Hi 👋, I'm Lund</h1>
 <h3 align="center">Sophomore </h3> 
 <h3 align="center">B.Tech Maths&Computing IIT(Indian Institute of Technology),Ropar </h3> 
 <h3 align="center">Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.
