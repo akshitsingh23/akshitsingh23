@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">Senior </h3> 
-<h3 align="center">B.Tech Maths&Computing IIT(Indian Institute of Technology),Ropar </h3> 
-<h3 align="center">Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.
-<p align="center">
-    <img src="[[https://cdn.dribbble.com/users/2716456/screenshots/15637256/media/7428659/coding.png](https://images.app.goo.gl/jEBbrAkKNmMCGgAF7)](https://dribbble.com/shots/15637256-coding?utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=youstudio_works&utm_content=coding&utm_medium=Social_Share)" class="align-right" alt="Coding Image">
-</p>
+<body class="bg-white"> 
+<h1 align="left">Hi there👋, I'm Akshit</h1>
+<img align="right" height=250 width="" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" >
+<h3 align="left">I'm Akshit</h3>
+<h3 align="left">Senior </h3> 
+<h3 align="left">B.Tech Maths&Computing IIT(Indian Institute of Technology),Ropar </h3> 
+<h3 align="left">Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.
+<!-- <p align="center">
+    <img src="https://cdn.dribbble.com/users/2716456/screenshots/15637256/media/7428659/coding.png" class="" alt="Coding Image"/>
+</p> -->
+
 
 <p align="left"> <a href="https://twitter.com/akshits13209815" target="blank"><img src="https://img.shields.io/twitter/follow/akshits13209815?logo=twitter&style=for-the-badge" alt="akshits13209815" /></a> </p>
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
@@ -32,3 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitsingh23&show_icons=true&locale=en&layout=compact" alt="akshitsingh23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitsingh23&show_icons=true&locale=en" alt="akshitsingh23" /></p>
+</body>
