@@ -1,6 +1,6 @@
 <body class="bg-white"> 
 <h1 align="left">Hi there👋, I'm Akshit</h1>
-<img align="right" height=250 width="" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" >
+<img align="right" height=250 width="" src="./homeanimation.gif" >
 <h3 align="left">I'm Akshit</h3>
 <h3 align="left">Senior </h3> 
 <h3 align="left">B.Tech Maths&Computing IIT(Indian Institute of Technology),Ropar </h3> 
