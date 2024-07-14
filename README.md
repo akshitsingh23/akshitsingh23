@@ -1,17 +1,18 @@
 <body class="bg-white"> 
 <h1 align="left">Hi there👋, I'm Akshit</h1>
 <img align="right" height=250 width="" src="./homeanimation.gif" >
-<h3 align="left">I'm Akshit</h3>
+<!-- <h3 align="left">I'm Akshit</h3> -->
 <h3 align="left">Senior </h3> 
 <h3 align="left">B.Tech Maths&Computing IIT(Indian Institute of Technology),Ropar </h3> 
-<h3 align="left">Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.
+<h3 align="left">Tell me and I’ll forget; show me and I may remember; <br>
+involve me and I’ll understand.
 <!-- <p align="center">
     <img src="https://cdn.dribbble.com/users/2716456/screenshots/15637256/media/7428659/coding.png" class="" alt="Coding Image"/>
 </p> -->
 
 
 <p align="left"> 
- <a href="https://twitter.com/akshits13209815" target="blank"><img src="https://img.shields.io/twitter/follow/akshits13209815?logo=twitter&style=for-the-badge" alt="akshits13209815" />
+ <a href="https://www.linkedin.com/in/akshit-singh-710807227/" target="blank"><img src="https://img.shields.io/twitter/follow/akshits13209815?logo=linkedin&style=for-the-badge" alt="akshitsingh" />
 </a> </p>
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
