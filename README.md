@@ -84,25 +84,25 @@ odejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a> &nbsp;
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="48" height="48"/>
+        <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="60" height="60"/>
     </a> &nbsp;
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" width="48" height="48"/>
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" width="60" height="60"/>
     </a> &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="48" height="48"/>
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="60" height="60"/>
     </a> &nbsp;
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" width="48" height="48"/>
+        <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" width="60" height="60"/>
     </a> &nbsp;
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" width="48" height="48"/>
+        <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" width="60" height="60"/>
     </a> &nbsp;
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="48" height="48"/>
+        <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="60" height="60"/>
     </a> &nbsp;
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="48" height="48"/>
+        <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="60" height="60"/>
     </a> &nbsp;
 </p>
 Notes:
