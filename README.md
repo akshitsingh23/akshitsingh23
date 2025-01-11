@@ -12,7 +12,7 @@ involve me and I’ll understand.
 
 
 <p align="left"> 
- <a href="https://www.linkedin.com/in/akshit-singh-710807227/" target="blank"><img src="https://img.shields.io/twitter/follow/akshits13209815?logo=linkedin&style=for-the-badge" alt="akshitsingh" />
+ <a href="https://www.linkedin.com/in/akshitsingh235/" target="blank"><img src="https://img.shields.io/twitter/follow/akshits13209815?logo=linkedin&style=for-the-badge" alt="akshitsingh235" />
 </a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
