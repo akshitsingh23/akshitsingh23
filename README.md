@@ -17,7 +17,7 @@ involve me and I’ll understand.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
 - 🌱 I’m currently learning **Web and App developement , DevOps , Machine Learning , Deep Learning**
-
+- Checkout my webiste :- iitrpr.ac.in/akshit
 - 📫 Mail me at:**akshitsingh2352003@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
