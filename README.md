@@ -2,7 +2,7 @@
 <h1 align="left">Hi there👋, I'm Akshit</h1>
 <img align="right" height=250 width="" src="./homeanimation.gif" >
 <!-- <h3 align="left">I'm Akshit</h3> -->
-<h3 align="left">Senior </h3> 
+<h3 align="left">Graduate </h3> 
 <h3 align="left">B.Tech Maths&Computing IIT(Indian Institute of Technology),Ropar </h3> 
 <h3 align="left">Tell me and I’ll forget; show me and I may remember; <br>
 involve me and I’ll understand.
