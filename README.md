@@ -67,8 +67,6 @@ involve me and I’ll understand.
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitsingh23&show_icons=true&locale=en&layout=compact" alt="akshitsingh23" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitsingh23&show_icons=true&locale=en" alt="akshitsingh23" /></p>
-    
+
 
 </body>
