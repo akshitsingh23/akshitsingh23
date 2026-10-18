@@ -16,7 +16,7 @@ involve me and I’ll understand.
 </a> </p>
 
 - 🌱 I’m currently learning **Web and App developement , DevOps , Machine Learning , Deep Learning**
-- 🌐 Checkout my webiste  :- <a href="https://iitrpr.ac.in/akshit" target="blank">iitrpr.ac.in/akshit</a>
+- 🌐 Checkout my webiste  :- <a href="https://akshitsingh.vercel.app" target="blank">iitrpr.ac.in/akshit</a>
 - 📫 Mail me at :- **akshitsingh2352003@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
