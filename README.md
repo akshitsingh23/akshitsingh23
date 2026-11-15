@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="35%" valign="middle">
 
 ## Software Engineer | AI/ML Enthusiast
 
