@@ -12,7 +12,7 @@ involve me and I’ll understand.
 
 
 <p align="left"> 
- <a href="https://www.linkedin.com/in/akshitsingh235/" target="_blank"><img src="https://img.shields.io/twitter/follow/akshits13209815?logo=linkedin&style=for-the-badge" alt="akshitsingh235" />
+ <a href="https://www.linkedin.com/in/akshitsingh235/" target="_blank"><img src="https://img.shields.io/twitter/follow/akshitsingh235?logo=linkedin&style=for-the-badge" alt="akshitsingh235" />
 </a> </p>
 
 - 🌱 I’m currently learning **Web and App developement , DevOps , Machine Learning , Deep Learning**
